@@ -1,7 +1,7 @@
 [package]
 name = "ternary-coordination"
 version = "0.1.0"
-edition = "2024"
+edition = "2021"
 description = "Formal {-1, 0, +1} coordination algebra with ternary matrices, consensus, and provable convergence"
 license = "MIT"
 repository = "https://github.com/SuperInstance/ternary-coordination"
